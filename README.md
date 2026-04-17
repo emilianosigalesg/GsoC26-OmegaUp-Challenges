@@ -2,7 +2,7 @@
 
 This repository contains algorithm problems I solved while preparing my application for **Google Summer of Code 2026** through **omegaUp**.
 
-Even did not go through the full application process in order to prioritize startup work and university assignments, I wanted to publish the work as part of my learning journey and technical portfolio. Each problem was solved independently and then assisted with Cursor, which allowed comparing algorithms and learning new ways to solve a problem through Python code.
+I did not go through the full application process to participate in GsoC2026, in order to prioritize startup work and university assignments. But I wanted to still publish the work as part of my learning journey and technical portfolio. Each problem was solved independently and then assisted with Cursor, which allowed comparing algorithms and learning new ways to solve a problem through Python code.
 
 ## Included Problems
 
